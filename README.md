@@ -1,0 +1,1 @@
+This repository contains a simple Solidity contract with a bug and its solution. The bug is a division by zero error in the `divide` function. The solution adds input validation to prevent this error.
