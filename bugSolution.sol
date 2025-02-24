@@ -1,0 +1,1 @@
+function add(a, b) { return a + b; } function subtract(a, b) { return a - b; } function multiply(a, b) { return a * b; } function divide(a, b) { require(b != 0, "Division by zero"); return a / b; }
